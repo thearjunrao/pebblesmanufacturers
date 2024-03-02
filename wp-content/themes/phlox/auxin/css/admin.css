@@ -450,7 +450,7 @@ figure { *zoom: 1; }
 
 /*!- Title wrapper ----------
  * -------------------------- */
-.section-title { background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/pattern/bg16.png) repeat top left; font-weight: bold; font-size: 1.5em; line-height: 1.4em; border-bottom-color: #FFFFFF; }
+.section-title { background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/pattern/bg16.png) repeat top left; font-weight: bold; font-size: 1.5em; line-height: 1.4em; border-bottom-color: #FFFFFF; }
 .section-title p { margin: 0; padding: 8px; }
 
 /*!- Meta boxes ------------
@@ -529,7 +529,7 @@ figure { *zoom: 1; }
 .slide-block .slideImage { width: 300px; height: 100%; left: 0; top: 0; display: block; background-color: #FCFCFC; position: absolute; border: 1px solid #DDDDDD; border-left-width: 0; border-top-width: 0; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; }
 .slide-block .settingBlock { display: block; margin-left: 300px; }
 
-.slideImage .dragHandle { width: 20px; height: 100%; display: block; float: left; background: #252525 url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/drag-pattern.png) no-repeat center center; cursor: move; }
+.slideImage .dragHandle { width: 20px; height: 100%; display: block; float: left; background: #252525 url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/drag-pattern.png) no-repeat center center; cursor: move; }
 .slideImage .imgHolder { width: 280px; height: 150px; display: block; float: left; background-color: #E9E9E9; -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset; -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset; box-shadow: 0 0 4px rgba(0, 0, 0, 0.1) inset; }
 .slideImage .imgHolder img { width: auto; height: 150px; display: block; position: absolute; top: 0; left: 0; z-index: 99; }
 .slideImage .imgHolder a { text-align: center; display: inline; background-color: #FBFBFB; padding: 20px 30px; position: relative; top: 62px; left: 15px; font-size: 14px; cursor: pointer; z-index: 98; border-radius: 3px; -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset; -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.2) inset; }
@@ -625,7 +625,7 @@ figure { *zoom: 1; }
 .aux-close-notice { text-decoration: none; }
 
 /** Style for core plugin installation notice */
-.aux-notice-install-now { height: 195px; border: 12px solid #fff !important; background: #f4faff url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/other/install-notice-bg.png) no-repeat right center !important; }
+.aux-notice-install-now { height: 195px; border: 12px solid #fff !important; background: #f4faff url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/other/install-notice-bg.png) no-repeat right center !important; }
 .aux-notice-install-now.aux-notice-wrapper { padding-right: 45px; padding-left: 45px; }
 .aux-notice-install-now .aux-notice-title { font-size: 28px; font-weight: 500; margin-top: 36px; margin-bottom: 15px; letter-spacing: 1px; }
 .aux-notice-install-now .auxin-install-now { padding: 0 22px; line-height: 46px; height: 48px; font-size: 15px; font-weight: 400; }
@@ -647,7 +647,7 @@ figure { *zoom: 1; }
 /** Style the go pro link in admin bar */
 #wp-admin-bar-phlox-upgrade > a.ab-item { color: #62ade4; }
 
-a.toplevel_page_auxin-welcome .dashicons-before:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/elements/admin-logo.svg) no-repeat left center; content: ' '; }
+a.toplevel_page_auxin-welcome .dashicons-before:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/elements/admin-logo.svg) no-repeat left center; content: ' '; }
 a.toplevel_page_auxin-welcome.aux-highlight-focus { border: 2px solid #0073aa; }
 
 .auxin-alarm-top-bar { background-color: #cd4909 !important; padding: 0 10px; }
@@ -672,20 +672,20 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 
 /* Tinymce shortcode btn
 --------------------------------- */
-.mce-toolbar .mce-i-phlox-shortcode-btn { background: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/svgs/shortcode.svg") no-repeat 0px 3px; width: 85px !important; }
+.mce-toolbar .mce-i-phlox-shortcode-btn { background: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/svgs/shortcode.svg") no-repeat 0px 3px; width: 85px !important; }
 
 /* Spinner button
 --------------------------------- */
 .aux-button-loading { position: relative; }
-.aux-button-loading:after { content: ''; position: absolute; left: 50%; top: 50%; transform: translateX(-50%) translateY(-50%); width: 20px; height: 20px; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/loader.svg); background-repeat: no-repeat; }
+.aux-button-loading:after { content: ''; position: absolute; left: 50%; top: 50%; transform: translateX(-50%) translateY(-50%); width: 20px; height: 20px; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/loader.svg); background-repeat: no-repeat; }
 .aux-button-loading:before { visibility: hidden; }
 .aux-button-loading > span { visibility: hidden; }
 .aux-button-loading.aux-button-success { background: #00BA26 !important; }
-.aux-button-loading.aux-button-success:after { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/success.svg); }
+.aux-button-loading.aux-button-success:after { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/success.svg); }
 .aux-button-loading.aux-button-error { background: #FF5858 !important; }
-.aux-button-loading.aux-button-error:after { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/warning.svg); width: 3px; height: 17px; }
+.aux-button-loading.aux-button-error:after { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/warning.svg); width: 3px; height: 17px; }
 
-#wpadminbar .aux-header-footer-edit-links:before { content: ' '; width: 20px; height: 20px; top: 5px; margin-right: 10px; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/auxin/css/images/elements/admin-logo.svg) no-repeat left center; display: inline-block; position: relative; }
+#wpadminbar .aux-header-footer-edit-links:before { content: ' '; width: 20px; height: 20px; top: 5px; margin-right: 10px; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/auxin/css/images/elements/admin-logo.svg) no-repeat left center; display: inline-block; position: relative; }
 #wpadminbar #wp-admin-bar-aux-header-footer a { display: flex; justify-content: space-between; }
 #wpadminbar #wp-admin-bar-aux-header-footer a .aux-state { margin-left: 15px; background-color: #55595c; padding: 4px 8px; border-radius: 2px; line-height: 9px; margin-top: 6px; }
 #wpadminbar ul li.aux-title { background-color: #dedede; }
@@ -720,7 +720,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 --------------------------*/
 .jquery-checkbox { display: inline-block; font-size: 20px; line-height: 20px; cursor: pointer; }
 .jquery-checkbox .mark { display: inline; width: 60px; }
-.jquery-checkbox img { vertical-align: middle; width: 60px; height: 20px; background: transparent url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/elements/checkbox-light.png) no-repeat; background-position: 0 0; }
+.jquery-checkbox img { vertical-align: middle; width: 60px; height: 20px; background: transparent url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/elements/checkbox-light.png) no-repeat; background-position: 0 0; }
 
 .jquery-checkbox-checked img { background-position: 0 -40px; }
 .jquery-checkbox-checked .jquery-checkbox-hover img { background-position: 0 -60px; }
@@ -834,7 +834,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .am-frame > img { max-height: 100%; }
 
 .am-add-new { text-align: center; font-size: 12px; float: none; width: 90px; border: 2px solid #0077a3; color: #0077a3 !important; }
-.am-add-new:before { display: inline-block !important; width: 100% !important; height: 50px; font-size: 40px; margin: 0px 0 0px !important; color: #0077a3; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/visual-select/add-images.svg) no-repeat 5px -2px; content: ' '; }
+.am-add-new:before { display: inline-block !important; width: 100% !important; height: 50px; font-size: 40px; margin: 0px 0 0px !important; color: #0077a3; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/visual-select/add-images.svg) no-repeat 5px -2px; content: ' '; }
 .am-add-new:hover { -moz-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1); -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1); box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1); color: #2ea2cc; border-color: #2ea2cc; background-color: inherit !important; }
 .am-add-new.axi-add-new-disabled { display: none; }
 
@@ -845,7 +845,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .axi-visual-select:after { content: ""; display: table; clear: both; }
 .axi-visual-select .axi-select-item { float: left; border: 3px solid #d8d8d8; margin: 0 5px 5px 0; max-width: 100%; cursor: pointer; }
 .axi-visual-select .axi-select-item[item-type="video"] { position: relative; }
-.axi-visual-select .axi-select-item[item-type="video"]:after { content: ''; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/bg/play.png); width: 85px; height: 85px; position: absolute; right: 0; left: 0; top: 0; bottom: 0; margin: auto; opacity: 1; transition: opacity 300ms ease-out; }
+.axi-visual-select .axi-select-item[item-type="video"]:after { content: ''; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/bg/play.png); width: 85px; height: 85px; position: absolute; right: 0; left: 0; top: 0; bottom: 0; margin: auto; opacity: 1; transition: opacity 300ms ease-out; }
 .axi-visual-select .axi-select-item[item-type="video"]:hover:after { opacity: 0; visibility: hidden; }
 .axi-visual-select .axi-select-item.axi-selected { border-color: #0077a3; }
 .axi-visual-select .axi-select-item.axi-selected img[src*="svg"] { -webkit-filter: brightness(40%) sepia(100%) hue-rotate(170deg) saturate(250%); filter: brightness(40%) sepia(100%) hue-rotate(170deg) saturate(250%); }
@@ -855,7 +855,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .axi-visual-select .axi-select-item.aux-medium-height img, .axi-visual-select .axi-select-item.aux-medium-height video { max-height: 100px; height: 100px; }
 .axi-visual-select .axi-select-item.aux-fetching { position: relative; }
 .axi-visual-select .axi-select-item.aux-fetching:before { content: ''; position: absolute; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.4); }
-.axi-visual-select .axi-select-item.aux-fetching:after { content: ''; position: absolute; left: 50%; top: 50%; transform: translateX(-50%) translateY(-50%); width: 20px; height: 20px; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/loader.svg); background-repeat: no-repeat; }
+.axi-visual-select .axi-select-item.aux-fetching:after { content: ''; position: absolute; left: 50%; top: 50%; transform: translateX(-50%) translateY(-50%); width: 20px; height: 20px; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/loader.svg); background-repeat: no-repeat; }
 .axi-visual-select .axi-select-caption { display: block; font-size: 11px; padding: 2px 5px; background: #eee; margin-top: 2px; }
 .axi-visual-select .aux-fetching-text { display: block; text-align: center; margin-bottom: 5px; }
 
@@ -917,7 +917,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .widget-content .auxin-admin-widget-wrapper { margin-top: 1em; }
 
 /* Styles for tipsy tooltip */
-.tipsy { padding: 5px; font-size: 10px; opacity: 0.8; filter: alpha(opacity=80); background-repeat: no-repeat; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/tipsy.gif); }
+.tipsy { padding: 5px; font-size: 10px; opacity: 0.8; filter: alpha(opacity=80); background-repeat: no-repeat; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/tipsy.gif); }
 
 .tipsy-inner { padding: 5px 8px 4px 8px; background-color: black; color: white; max-width: 200px; text-align: center; }
 
@@ -1115,7 +1115,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .aux-selective-list .aux-custom-symbol-svg { margin-right: 13px; }
 .aux-selective-list .axi-select-caption { font-size: 14px; font-weight: 500; }
 
-.aux-custom-symbol-svg:before { content: ''; display: inline-block; width: 15px; height: 15px; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/other/custom.svg) no-repeat; }
+.aux-custom-symbol-svg:before { content: ''; display: inline-block; width: 15px; height: 15px; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/other/custom.svg) no-repeat; }
 
 #aux-typo-controller-template .aux-control[data-type='GlobalColorPicker'] { float: none; }
 #aux-typo-controller-template .aux-control[data-type='color'] { margin-bottom: 0; }
@@ -1165,7 +1165,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .aux-welcome a:active, .aux-welcome a:focus { box-shadow: none; }
 .aux-welcome .aux-welcome-title { font-weight: 300; font-size: 36px; margin-bottom: 13px; color: #222; padding-top: 39px; }
 .aux-welcome .aux-welcome-subtitle { font-size: 18px; font-weight: 300; margin-bottom: 2.2em; color: #989898; }
-.aux-welcome .aux-welcome-theme-badge { background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/dashboard-logo.png) no-repeat center center; font-weight: normal; font-size: 12px; width: 140px; height: 140px; display: inline-block; position: absolute; top: 0; right: 0; margin-right: -16px; }
+.aux-welcome .aux-welcome-theme-badge { background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/dashboard-logo.png) no-repeat center center; font-weight: normal; font-size: 12px; width: 140px; height: 140px; display: inline-block; position: absolute; top: 0; right: 0; margin-right: -16px; }
 .aux-welcome .aux-welcome-nav-bar { margin-top: 70px; text-align: center; border-radius: 7px; background: #fff; margin-bottom: 30px; top: 30px; padding-left: 30px; padding-right: 30px; box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.08); }
 .aux-welcome .aux-welcome-nav-bar.aux-importer-tab-is-active { border-bottom-left-radius: 0; border-bottom-right-radius: 0; }
 .aux-welcome .aux-welcome-nav-bar > ul, .aux-welcome .aux-welcome-nav-bar li { margin: 0; }
@@ -1219,9 +1219,9 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .aux-welcome-page-dashboard .aux-big-banner h3 { margin-top: -15px; font-size: 28px; margin-bottom: 0; border-radius: 0 7px 0 0; padding-top: 15px; padding-bottom: 10px; }
 .aux-welcome-page-dashboard .aux-big-banner p { font-size: 16px; border-radius: 0 0 7px 0; padding-top: 10px; padding-bottom: 10px; }
 .aux-welcome-page-dashboard .aux-big-banner .aux-wl-button { position: absolute; bottom: 50px; }
-.aux-welcome-page-dashboard .aux-importer-banner { background: #FD4770 url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/import-bg.png) no-repeat right top; box-shadow: 0 0 25px rgba(254, 71, 115, 0.25); }
+.aux-welcome-page-dashboard .aux-importer-banner { background: #FD4770 url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/import-bg.png) no-repeat right top; box-shadow: 0 0 25px rgba(254, 71, 115, 0.25); }
 .aux-welcome-page-dashboard .aux-importer-banner h3, .aux-welcome-page-dashboard .aux-importer-banner p { background-color: #FD4770; }
-.aux-welcome-page-dashboard .aux-customize-banner { background: #686DF7 url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/customize-bg.png) no-repeat right top; box-shadow: 0 0 25px rgba(149, 104, 247, 0.25); }
+.aux-welcome-page-dashboard .aux-customize-banner { background: #686DF7 url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/customize-bg.png) no-repeat right top; box-shadow: 0 0 25px rgba(149, 104, 247, 0.25); }
 .aux-welcome-page-dashboard .aux-customize-banner h3, .aux-welcome-page-dashboard .aux-customize-banner p { background-color: #686DF7; }
 @media screen and (min-width: 768px) and (max-width: 1023px) { .aux-welcome-page-dashboard .aux-big-banner { background-image: none; } }
 .aux-welcome-page-dashboard .aux-info-blocks-row { margin-bottom: 30px; }
@@ -1242,11 +1242,11 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .aux-welcome-page-dashboard .aux-welcome-social-items { display: table-cell; vertical-align: middle; }
 .aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-item { background-position: center center; background-repeat: no-repeat; display: inline-block; width: 18px; height: 16px; margin-left: 15px; float: left; }
 .aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-item:first-child { margin-left: 20px; }
-.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-twitter { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/twitter.svg); }
-.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-facebook { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/facebook.svg); }
-.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-instagram { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/instagram.svg); }
-.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-envato { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/envato.svg); }
-.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-youtube { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/youtube.svg); }
+.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-twitter { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/twitter.svg); }
+.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-facebook { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/facebook.svg); }
+.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-instagram { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/instagram.svg); }
+.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-envato { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/envato.svg); }
+.aux-welcome-page-dashboard .aux-welcome-social-items .aux-social-youtube { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/youtube.svg); }
 .aux-welcome-page-dashboard .aux-changelog-content { padding: 45px 60px 50px; max-height: 500px; overflow-y: auto; }
 .aux-welcome-page-dashboard .aux-changelog-headline { margin-bottom: 35px; display: block; }
 .aux-welcome-page-dashboard .aux-changelog-list { font-size: 16px; line-height: 1.5em; }
@@ -1277,7 +1277,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .aux-welcome-page-plugins { margin-bottom: 0; }
 
 .aux-welcome-page-feedback .aux-columns-wrap { display: table; }
-.aux-welcome-page-feedback .aux-image-wrap { display: table-cell; width: 160px; height: 100%; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/rating.svg) no-repeat left top; background-size: 110px 106px; }
+.aux-welcome-page-feedback .aux-image-wrap { display: table-cell; width: 160px; height: 100%; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/rating.svg) no-repeat left top; background-size: 110px 106px; }
 .aux-welcome-page-feedback .aux-form-wrap { display: table-cell; height: 100%; }
 .aux-welcome-page-feedback .aux-theme-ratings { width: 670px; display: table; }
 .aux-welcome-page-feedback .aux-rate-cell { display: table-cell; position: relative; }
@@ -1424,7 +1424,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .auxin-wizard-panel .aux-radio input:disabled ~ .control__indicator:after { background: #3D3D3D; }
 .auxin-wizard-panel .aux-radio input:checked ~ .aux-indicator { background: #FFFFFF; border-color: #3D3D3D; }
 .auxin-wizard-panel .work-in-progress { pointer-events: none; }
-.auxin-wizard-panel .aux-step-in-progress:after { content: ''; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/images/welcome/loader.svg); background-position: center center; background-repeat: no-repeat; position: absolute; width: 100%; height: 100%; left: 0; top: 0; background-color: rgba(255, 255, 255, 0.9); }
+.auxin-wizard-panel .aux-step-in-progress:after { content: ''; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/images/welcome/loader.svg); background-position: center center; background-repeat: no-repeat; position: absolute; width: 100%; height: 100%; left: 0; top: 0; background-color: rgba(255, 255, 255, 0.9); }
 .auxin-wizard-panel .aux-demo-lightbox { background: #ffffff; }
 .auxin-wizard-panel .aux-checkbox .aux-indicator { top: 3px; }
 .auxin-wizard-panel .aux-checkbox .aux-indicator:after { left: 2px; top: -1px; width: 4px; height: 9px; border: solid #FFFFFF; border-width: 0 2px 2px 0; transform: rotate(45deg); }
@@ -1471,11 +1471,11 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .auxin-wizard-panel .aux-modal-item .aux-step-remove-watermark .aux-watermark .unlocked { position: relative; }
 .auxin-wizard-panel .aux-modal-item .aux-step-remove-watermark .aux-watermark .unlocked img:first-child { position: relative; top: 8px; }
 .auxin-wizard-panel .aux-modal-item .aux-step-remove-watermark .aux-watermark .unlocked img:nth-child(2) { background-color: #00BA26; padding: 8px 6px; border-radius: 50%; position: absolute; left: calc( 50% - 15px); bottom: 30px; }
-.auxin-wizard-panel .aux-modal-item .aux-install-plugins .aux-checkbox .aux-indicator { background-color: transparent !important; border: none !important; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/install.svg); background-position: center center; background-repeat: no-repeat; width: 15px; height: 15px; top: 1px; }
+.auxin-wizard-panel .aux-modal-item .aux-install-plugins .aux-checkbox .aux-indicator { background-color: transparent !important; border: none !important; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/install.svg); background-position: center center; background-repeat: no-repeat; width: 15px; height: 15px; top: 1px; }
 .auxin-wizard-panel .aux-modal-item .aux-install-plugins .aux-checkbox .aux-indicator:after { display: none !important; }
-.auxin-wizard-panel .aux-modal-item .aux-install-plugins .work-in-progress .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/installing.svg) !important; animation: welcome-rotator 700ms linear infinite; top: 2px; }
+.auxin-wizard-panel .aux-modal-item .aux-install-plugins .work-in-progress .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/installing.svg) !important; animation: welcome-rotator 700ms linear infinite; top: 2px; }
 .auxin-wizard-panel .aux-modal-item .aux-install-plugins .work-in-progress .column-status span { color: #222 !important; }
-.auxin-wizard-panel .aux-modal-item .aux-install-plugins .aux-success .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/check.svg) !important; }
+.auxin-wizard-panel .aux-modal-item .aux-install-plugins .aux-success .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/check.svg) !important; }
 .auxin-wizard-panel .aux-modal-item .aux-install-plugins .column-status .spinner { display: none !important; }
 .auxin-wizard-panel .aux-modal-item .aux-setup-demo-content { padding: 70px 70px 0; }
 .auxin-wizard-panel .aux-modal-item .aux-setup-demo-content.aux-uninstall-demo-content { padding: 30px 70px 70px; }
@@ -1513,7 +1513,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-notice { text-align: center; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-notice img { width: 115px; height: 119px; margin-top: 40px; margin-bottom: 20px; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-notice .aux-step-import-title { margin: 0; }
-.auxin-wizard-panel .aux-modal-item .aux-step-import-notice .aux-step-import-title:before { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/notice-icon.svg) !important; }
+.auxin-wizard-panel .aux-modal-item .aux-step-import-notice .aux-step-import-title:before { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/notice-icon.svg) !important; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-completed { text-align: center; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-completed img { width: 181px; height: 155px; margin-top: 40px; margin-bottom: 30px; }
 .auxin-wizard-panel .aux-modal-item .aux-step-import-completed .aux-step-import-title { margin: 0; letter-spacing: 0.04em; }
@@ -1610,11 +1610,11 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .auxin-wizard-panel #message.updated { display: none !important; }
 .auxin-wizard-panel .aux-iconic-action { position: relative; }
 .auxin-wizard-panel .aux-iconic-action:before { content: ''; display: inline-block; width: 14px; height: 14px; margin-right: 5px; vertical-align: middle; }
-.auxin-wizard-panel .aux-import-demo:before, .auxin-wizard-panel .aux-import-template:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/import.svg) no-repeat center -1px; background-size: 13px 14px; }
+.auxin-wizard-panel .aux-import-demo:before, .auxin-wizard-panel .aux-import-template:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/import.svg) no-repeat center -1px; background-size: 13px 14px; }
 .auxin-wizard-panel .aux-import-demo.aux-uninstall, .auxin-wizard-panel .aux-import-template.aux-uninstall { background-color: #FF5858; }
-.auxin-wizard-panel .aux-import-demo.aux-uninstall:before, .auxin-wizard-panel .aux-import-template.aux-uninstall:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/trash.svg) no-repeat center -1px; }
-.auxin-wizard-panel .aux-locked-demo:before { position: relative; top: -1px; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/lock.svg) no-repeat center top; background-size: 13px 13px; }
-.auxin-wizard-panel .aux-copy-template:before { position: relative; top: -1px; background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/copy.svg) no-repeat center top; background-size: 13px 13px; }
+.auxin-wizard-panel .aux-import-demo.aux-uninstall:before, .auxin-wizard-panel .aux-import-template.aux-uninstall:before { background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/trash.svg) no-repeat center -1px; }
+.auxin-wizard-panel .aux-locked-demo:before { position: relative; top: -1px; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/lock.svg) no-repeat center top; background-size: 13px 13px; }
+.auxin-wizard-panel .aux-copy-template:before { position: relative; top: -1px; background: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/copy.svg) no-repeat center top; background-size: 13px 13px; }
 
 .aux-setup-steps { margin: 45px 0; list-style: none; overflow: hidden; color: #DEDEDE; width: 100%; display: -webkit-inline-flex; display: -ms-inline-flexbox; font-size: 18px; font-weight: 600; display: inline-flex; counter-reset: LIST-ITEMS; }
 .aux-setup-steps li { width: 25%; float: left; padding: 2em 0 0.5em; margin: 0; text-align: center; position: relative; border-top: 5px solid #DEDEDE; }
@@ -1802,17 +1802,17 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .rtl .aux-setup-steps li.active:before { left: auto; right: 0; }
 .rtl .aux-setup-content .aux-welcome-step img { transform: rotateY(180deg); float: left; }
 
-.auxin-wizard-panel .aux-update-items .aux-control .aux-indicator { background-color: transparent !important; border: none !important; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/install.svg); background-position: center center; background-repeat: no-repeat; width: 15px; height: 15px; top: 50%; transform: translateY(-50%); }
+.auxin-wizard-panel .aux-update-items .aux-control .aux-indicator { background-color: transparent !important; border: none !important; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/install.svg); background-position: center center; background-repeat: no-repeat; width: 15px; height: 15px; top: 50%; transform: translateY(-50%); }
 .auxin-wizard-panel .aux-update-items .aux-control .aux-indicator:after { display: none !important; }
-.auxin-wizard-panel .aux-update-items .work-in-progress .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/installing.svg) !important; animation: welcome-rotator 700ms linear infinite; top: 25%; }
+.auxin-wizard-panel .aux-update-items .work-in-progress .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/installing.svg) !important; animation: welcome-rotator 700ms linear infinite; top: 25%; }
 .auxin-wizard-panel .aux-update-items .work-in-progress .column-status span { color: #222 !important; }
-.auxin-wizard-panel .aux-update-items .aux-success .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/check.svg) !important; }
+.auxin-wizard-panel .aux-update-items .aux-success .aux-indicator { background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/check.svg) !important; }
 .auxin-wizard-panel .aux-update-items .column-status .spinner { display: none !important; }
 
 .aux-welcome-desc-meta { margin: 0 8px 0 0; }
 
 .aux-is-activated { color: #00BA26; font-size: 14px; font-weight: 400; line-height: 19px; }
-.aux-is-activated::before { content: ""; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/check.svg); background-repeat: no-repeat; width: 13px; height: 13px; display: inline-block; vertical-align: baseline; }
+.aux-is-activated::before { content: ""; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/check.svg); background-repeat: no-repeat; width: 13px; height: 13px; display: inline-block; vertical-align: baseline; }
 
 .aux-welcome-desc-meta-link { font-size: 14px; font-weight: 400; line-height: 19px; }
 
@@ -1834,7 +1834,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 
 .aux-purchase-activation-notice { background: #fff; border-radius: 7px; padding: 22px 18px; position: relative; transform: translateY(40px); }
 .aux-purchase-activation-notice .aux-desc { margin: 0; display: inline-block; font-size: 16px; line-height: 21px; font-weight: 600; padding-left: 70px; }
-.aux-purchase-activation-notice .aux-desc::before { content: ""; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/images/welcome/attention.svg); background-color: #F86464; position: absolute; left: 0; top: 0; bottom: 0; width: 65px; background-repeat: no-repeat; background-position: center center; border-radius: 7px 0px 0px 7px; }
+.aux-purchase-activation-notice .aux-desc::before { content: ""; background-image: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/images/welcome/attention.svg); background-color: #F86464; position: absolute; left: 0; top: 0; bottom: 0; width: 65px; background-repeat: no-repeat; background-position: center center; border-radius: 7px 0px 0px 7px; }
 .aux-purchase-activation-notice .aux-button { padding: 4px 20px; font-size: 14px; line-height: 19px; background: #F86464; position: absolute; margin: 0; right: 38px; top: 50%; transform: translateY(-50%); }
 
 .aux-license-popup { background: #fff; box-shadow: 0 3px 36px rgba(0, 0, 0, 0.16); border-radius: 7px; padding: 80px 70px 100px; text-align: center; max-width: 670px; }
@@ -1856,11 +1856,11 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 .editor-block-list-item-legacy-widget\/aux_about_widget:after, .editor-block-list-item-legacy-widget\/aux_accordion_widget:after, .editor-block-list-item-legacy-widget\/aux_audio:after, .editor-block-list-item-legacy-widget\/aux_before_after:after, .editor-block-list-item-legacy-widget\/aux_code:after, .editor-block-list-item-legacy-widget\/aux_contact_box:after, .editor-block-list-item-legacy-widget\/aux_contact_form:after, .editor-block-list-item-legacy-widget\/aux_divider:after, .editor-block-list-item-legacy-widget\/aux_gmaps:after, .editor-block-list-item-legacy-widget\/aux_image:after, .editor-block-list-item-legacy-widget\/aux_staff:after, .editor-block-list-item-legacy-widget\/aux_tabs_widget:after, .editor-block-list-item-legacy-widget\/aux_testimonial:after, .editor-block-list-item-legacy-widget\/aux_video:after, .editor-block-list-item-legacy-widget\/aux_latest_posts_slider:after, .editor-block-list-item-legacy-widget\/aux_popular_posts_widget:after, .editor-block-list-item-legacy-widget\/aux_quote:after, .editor-block-list-item-legacy-widget\/aux_recent_post_widget:after, .editor-block-list-item-legacy-widget\/aux_search:after, .editor-block-list-item-legacy-widget\/aux_socials_list:after, .editor-block-list-item-legacy-widget\/aux_socials_list_2:after { position: absolute; top: 0; right: 0; z-index: 1; padding: 3px 4px 2px; border-style: solid; font-weight: 600; font-size: 9px; text-align: right; border-width: 1px; border-color: #eee; border-bottom-left-radius: 2px; text-transform: uppercase; font-family: "Open Sans",Roboto,Helvetica,Arial,sans-serif; content: "Phlox"; }
 
 /*!===================== fontello embed ============================*/
-@font-face { font-family: 'fontello-custom'; src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.eot?92768103"); src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.eot?92768103#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.woff?92768103") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.ttf?92768103") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.svg?92768103#fontello-custom") format("svg"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'fontello-custom'; src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.eot?92768103"); src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.eot?92768103#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.woff?92768103") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.ttf?92768103") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.svg?92768103#fontello-custom") format("svg"); font-weight: normal; font-style: normal; }
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 /*
-@media screen and (-webkit-min-device-pixel-ratio:0) { @font-face { font-family: 'fontello-custom'; src: url('https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/css/fonts/fontello/fontello-custom.svg?92768103#fontello-custom') format('svg'); }
+@media screen and (-webkit-min-device-pixel-ratio:0) { @font-face { font-family: 'fontello-custom'; src: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/css/fonts/fontello/fontello-custom.svg?92768103#fontello-custom') format('svg'); }
 }
 */
 [class^="axicon-"]:before, [class*=" axicon-"]:before { font-family: "fontello-custom"; font-style: normal; font-weight: normal; speak: none; display: inline-block; text-decoration: inherit; width: 1em; margin-right: .2em; text-align: center; /* opacity: .8; */ /* For safety - reset parent styles, that can break glyph codes*/ font-variant: normal; text-transform: none; /* fix buttons height, for twitter bootstrap */ line-height: 1em; /* Animation center compensation - margins should be symmetric */ /* remove if not needed */ margin-left: .2em; /* you can be more comfortable with increased icons size */ /* font-size: 120%; */ /* Uncomment for 3D effect */ /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
@@ -3356,7 +3356,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 /*!===================== custom admin fontIcon embed ===============*/
 [class^="aux-pb-icons-"]:before, [class*=" aux-pb-icons-"]:before, [class^="axiAdminIcon-"]:before, [class*=" axiAdminIcon-"]:before { display: inline-block; speak: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-@font-face { font-family: "AxiAdminCustomFont"; src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.eot?1b18058dc3297f5781776d92e83e756f"); src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.eot#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.woff?1b18058dc3297f5781776d92e83e756f") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.ttf?1b18058dc3297f5781776d92e83e756f") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "AxiAdminCustomFont"; src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.eot?1b18058dc3297f5781776d92e83e756f"); src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.eot#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.woff?1b18058dc3297f5781776d92e83e756f") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/options-icon/AxiAdminCustomFont.ttf?1b18058dc3297f5781776d92e83e756f") format("truetype"); font-weight: normal; font-style: normal; }
 .axiAdminIcon, [class^="axiAdminIcon-"], [class*=" axiAdminIcon-"] { font-family: "AxiAdminCustomFont"; display: inline-block; vertical-align: middle; line-height: 1; font-weight: normal; font-style: normal; speak: none; text-decoration: inherit; text-transform: none; text-rendering: auto; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .axiAdminIcon-bg-attachment-fixed:before { content: "\f101"; }
@@ -3501,7 +3501,7 @@ body.wp-admin #wpwrap #qm { margin-left: 160px !important; }
 
 .axiAdminIcon-top-right:before { content: "\f147"; }
 
-@font-face { font-family: "aux-pagebuilder-icons"; src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.eot?747735af9bed6ed956156b06a9c04849"); src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.eot#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.woff?747735af9bed6ed956156b06a9c04849") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.ttf?747735af9bed6ed956156b06a9c04849") format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "aux-pagebuilder-icons"; src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.eot?747735af9bed6ed956156b06a9c04849"); src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.eot#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.woff?747735af9bed6ed956156b06a9c04849") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/fonts/elements-icon/aux-pagebuilder-icons.ttf?747735af9bed6ed956156b06a9c04849") format("truetype"); font-weight: normal; font-style: normal; }
 .aux-pb-icons, [class^="aux-pb-icons-"], [class*=" aux-pb-icons-"] { font-family: "aux-pagebuilder-icons"; display: inline-block; vertical-align: middle; line-height: 1; font-weight: normal; font-style: normal; speak: none; text-decoration: inherit; text-transform: none; text-rendering: auto; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .aux-pb-icons-accordion:before { content: "\f101"; }
@@ -4262,7 +4262,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 .icons-selector .icons-picker-error i:before { color: #eee; }
 
 /* Icons */
-@font-face { font-family: 'iconpicker'; src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/iconpicker.eot?90190138"); src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/iconpicker.eot?90190138#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/iconpicker.woff?90190138") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/iconpicker.ttf?90190138") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/css/iconpicker.svg?90190138#iconpicker") format("svg"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'iconpicker'; src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/iconpicker.eot?90190138"); src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/iconpicker.eot?90190138#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/iconpicker.woff?90190138") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/iconpicker.ttf?90190138") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/css/iconpicker.svg?90190138#iconpicker") format("svg"); font-weight: normal; font-style: normal; }
 .icons-selector [class^="fip-icon-"]:before, .icons-selector [class*=" fip-icon-"]:before { font-family: "iconpicker"; font-style: normal; font-weight: normal; speak: none; display: inline-block; text-decoration: inherit; width: 1em; margin-right: .2em; text-align: center; font-variant: normal; text-transform: none; line-height: 1em; margin-left: .2em; }
 
 /* Search icon */
@@ -4372,7 +4372,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 
 .fip-grey.icons-selector .selector-footer, .fip-grey.icons-selector .selector-footer i { color: #555; }
 
-@font-face { font-family: 'auxiconpicker'; src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.eot?90138"); src: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.eot?90138#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.woff?90138") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.ttf?90138") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.svg?90138#iconpicker") format("svg"); }
+@font-face { font-family: 'auxiconpicker'; src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.eot?90138"); src: url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.eot?90138#iefix") format("embedded-opentype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.woff?90138") format("woff"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.ttf?90138") format("truetype"), url("https://thearjunrao.github.io/pebblesmanufacturers/wp-content/themes/phlox/auxin/js/solo/fonticonpicker/iconpicker.svg?90138#iconpicker") format("svg"); }
 .icons-selector [class^="fip-icon-"]:before, .icons-selector [class*=" fip-icon-"]:before { font-family: "auxiconpicker"; }
 
 .fip-grey.icons-selector .selector { border-color: #ddd; }
