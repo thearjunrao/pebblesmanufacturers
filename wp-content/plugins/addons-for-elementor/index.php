@@ -1,2 +1,1 @@
-<?php
-/* Silence is Golden */
+ 

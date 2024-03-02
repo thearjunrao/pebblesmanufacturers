@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* COLORS */
 /* OTHER VARS */
-@import "admin.css";
+@import "https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/wp-optimize/css/admin.css";
 body[class*=toplevel_page_WP-Optimize] #wpbody,
 body[class*=wp-optimize_page_] #wpbody {
   padding-right: 15px;
@@ -252,7 +252,7 @@ body.rtl .wpo-page {
   padding: 15px 20px;
   margin-top: 30px;
   margin-bottom: 30px;
-  background: #FFF url("../images/notices/logo-bg-notice.png") no-repeat 100% 100%;
+  background: #FFF url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/wp-optimize/images/notices/logo-bg-notice.png") no-repeat 100% 100%;
 }
 .wpo-introduction-notice h3 {
   font-size: 2em;

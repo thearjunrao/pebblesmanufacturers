@@ -151,11 +151,11 @@
   position: absolute;
   top: 7px;
   right: 9px;
-  background-image: url("../images/up-arrow.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/up-arrow.svg");
   background-size: cover;
 }
 .two_check_section .two_el_id::before{
-  background-image: url("../images/up-arrow1.svg") !important;
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/up-arrow1.svg") !important;
 }
 
 #two_styles_list .two_down_arrow::before{

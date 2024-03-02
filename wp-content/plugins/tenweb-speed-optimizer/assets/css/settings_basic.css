@@ -44,7 +44,7 @@
   background-color: #FD3C310D;
   border: 1px solid #FD3C311A;
   border-radius: 6px;
-  background-image: url(../images/info_red_bg.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/info_red_bg.svg);
   width: fit-content;
 }
 .two-container.connected .two-body-container {
@@ -92,7 +92,7 @@
   line-height: 20px;
 }
 .two-score0 {
-  background: url(../images/speed/red-info.svg) no-repeat #FD3C310D;
+  background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/red-info.svg) no-repeat #FD3C310D;
   background-size: 30px;
   width: 30px;
   height: 30px;
@@ -132,7 +132,7 @@
 .two_cache_button .two-loading:before {
   content: '';
   position: absolute;
-  background: transparent url(../images/speed/loader.svg) 0% 0% no-repeat padding-box;
+  background: transparent url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/loader.svg) 0% 0% no-repeat padding-box;
   animation: rotation 1s infinite linear;
   width: 14px;
   height: 14px;
@@ -151,7 +151,7 @@
 .two-button-io-active-optimize .two-loading:before {
   content: '';
   position: absolute;
-  background: transparent url(../images/speed/loader.svg) 0% 0% no-repeat padding-box;
+  background: transparent url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/loader.svg) 0% 0% no-repeat padding-box;
   animation: rotation 1s infinite linear;
   width: 14px;
   height: 14px;
@@ -258,7 +258,7 @@
   position: absolute;
   right: 20px;
   top: 17px;
-  background-image: url("../images/up-arrow2.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/up-arrow2.svg");
   background-size: 9px;
   background-repeat: no-repeat;
   background-position: 9px 8px;
@@ -267,7 +267,7 @@
 .two-faq-item.active:after {
   transform: none;
   background-color: #2160B5;
-  background-image: url("../images/up-arrow.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/up-arrow.svg");
 }
 .two-warning {
   background-color: #FFF9EA;
@@ -326,13 +326,13 @@
   box-sizing: border-box;
 }
 .two-step-check-inner.two-check {
-  background-image: url("../images/check.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/check.svg");
 }
 .two-step-check-inner.two-star {
-  background-image: url("../images/star.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/star.svg");
 }
 .two-step-check-inner.two-flash {
-  background-image: url("../images/flash.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/flash.svg");
 }
 .two-step-title {
   font-size: 12px;
@@ -426,7 +426,7 @@
 .two-disconnect-popup-list p:before {
   content: '';
   display: inline-block;
-  background-image: url('../images/error_solid.svg');
+  background-image: url('https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/error_solid.svg');
   width: 22px;
   height: 17px;
   position: absolute;
@@ -515,7 +515,7 @@
 .two-image-description-list li:before {
   content: '';
   display: inline-block;
-  background-image: url('../images/check_solid.svg');
+  background-image: url('https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/check_solid.svg');
   background-repeat: no-repeat;
   background-position: 50%;
   width: 20px;
@@ -597,7 +597,7 @@
   margin-top: 20px;
 }
 .two-get-pro-container {
-  background-image: url(../images/diamond_green.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/diamond_green.svg);
   background-repeat: no-repeat;
   background-position: right 6px top 3px;
 }
@@ -639,7 +639,7 @@
 }
 .two-settings_title.two_cache_cleared:before {
   content: '';
-  background: url(../images/speed/green-info.svg) right 0px top 2px no-repeat;
+  background: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/green-info.svg) right 0px top 2px no-repeat;
   background-size: 14px;
   width: 16px;
   height: 16px;
@@ -652,14 +652,14 @@
 .two_loading:before {
   width: 16px;
   height: 16px;
-  background-image: url(../images/speed/reload_icon_dark.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/reload_icon_dark.svg);
   left: -20px;
   background-size: 16px;
 }
 .two_cleared_successful:before {
   width: 10px;
   height: 10px;
-  background-image: url(../images/check_solid.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/check_solid.svg);
   left: -17px;
   top: 4px;
   background-size: 10px;
@@ -721,7 +721,7 @@ div.two-half-width {
 }
 .two-optimized-homepage-notice.two-reached-limit {
   background-color: #FD3C310D;
-  background-image: url(../images/info_red.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/info_red.svg);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -732,7 +732,7 @@ div.two-half-width {
 }
 .two-optimized-homepage-notice:not(.two-reached-limit) {
   background-color: #22B3390D;
-  background-image: url(../images/info_green.svg);
+  background-image: url(https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/info_green.svg);
 }
 .two-optimized-page, .two-optimized-images {
   display: flex;
@@ -774,7 +774,7 @@ div.two-half-width {
   margin-top: 8px;
   margin-bottom: 0;
   padding: 0 0 0 22px;
-  background-image: url("../images/speed/diamond.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/diamond.svg");
   background-size: 18px;
   background-repeat: no-repeat;
   background-position: 1px 1px;
@@ -784,7 +784,7 @@ div.two-half-width {
   margin-top: 5px;
   margin-bottom: 0;
   padding: 0 0 0 22px;
-  background-image: url("../images/speed/grey_point.svg");
+  background-image: url("https://thearjunrao.github.io/pebblesmanufacturers//wp-content/plugins/tenweb-speed-optimizer/assets/images/speed/grey_point.svg");
   background-size: 12px;
   background-repeat: no-repeat;
   background-position: 3px 3px;
