@@ -655,53 +655,53 @@ input[type=range]::-moz-range-thumb:hover {
 }
 
 input[type=range].range-success::-webkit-slider-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
 }
 input[type=range].range-success::-ms-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
 }
 input[type=range].range-success::-moz-range-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-standard.png') no-repeat 0 0;
 }
 
 input[type=range].range-warning::-webkit-slider-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
 }
 input[type=range].range-warning::-ms-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
 }
 input[type=range].range-warning::-moz-range-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-medium.png') no-repeat 0 0;
 }
 
 input[type=range].range-danger::-webkit-slider-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
 }
 input[type=range].range-danger::-ms-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
 }
 input[type=range].range-danger::-moz-range-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-strong.png') no-repeat 0 0;
 }
 
 input[type=range].range-ludicrous::-webkit-slider-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
 }
 input[type=range].range-ludicrous::-ms-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
 }
 input[type=range].range-ludicrous::-moz-range-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-turbo.png') no-repeat 0 0;
 }
 
 input[type=range].range-manual::-webkit-slider-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
 }
 input[type=range].range-manual::-ms-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
 }
 input[type=range].range-manual::-moz-range-thumb {
-  background: url('https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
+  background: url('https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/images/slider-thumb-manual.png') no-repeat 0 0;
 }
 
 @media all and (max-width: 500px) {
@@ -826,7 +826,7 @@ input[type=range].range-manual::-moz-range-thumb {
 .card-overlay-blurred {
   -webkit-filter: blur(30px); -moz-filter: blur(30px);
   -o-filter: blur(30px); -ms-filter: blur(30px); 
-  filter: url(https://thearjunrao.github.io/pebblesmanufacturers/wp-content/plugins/nitropack/view/stylesheet/.blurrable); filter: blur(30px);  filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
+  filter: url(https://pebblesmanufacturers.com/wp-content/plugins/nitropack/view/stylesheet/.blurrable); filter: blur(30px);  filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='3');
   -webkit-transition: 0.5s -webkit-filter ease-out;
   -o-transition: 0.5s -o-filter ease-out;
 }

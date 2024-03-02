@@ -9,8 +9,8 @@
 
 <channel>
 	<title>pebblesmanufacturers</title>
-	<atom:link href="https://thearjunrao.github.io/pebblesmanufacturers/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thearjunrao.github.io/pebblesmanufacturers/</link>
+	<atom:link href="https://pebblesmanufacturers.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pebblesmanufacturers.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Jul 2023 04:20:59 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://thearjunrao.github.io/pebblesmanufacturers/wp-content/uploads/2023/07/cropped-gd-32x32.jpg</url>
+	<url>https://pebblesmanufacturers.com/wp-content/uploads/2023/07/cropped-gd-32x32.jpg</url>
 	<title>pebblesmanufacturers</title>
-	<link>https://thearjunrao.github.io/pebblesmanufacturers/</link>
+	<link>https://pebblesmanufacturers.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
