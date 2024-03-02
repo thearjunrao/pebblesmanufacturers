@@ -1,0 +1,112 @@
+# BEGIN NITROPACK
+
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+
+RewriteRule .* - [E=NitroPackHtaccessVersion:1.7.1]
+RewriteRule .* - [E=Cache-Control:vary=nitrodesktop]
+
+RewriteCond %{HTTP_USER_AGENT} Android|iPad|RIM\ Tablet|hp-tablet|Kindle\ Fire [NC]
+RewriteRule .* - [E=Cache-Control:vary=nitrotablet]
+
+RewriteCond %{HTTP_USER_AGENT} iPod|iPhone|MobileSafari|webOS|BlackBerry|windows\ phone|symbian|vodafone|opera\ mini|windows\ ce|smartphone|palm|midp [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} Android.*Mobile [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} Mobile.*Android [NC]
+RewriteRule .* - [E=Cache-Control:vary=nitromobile]
+
+RewriteCond %{HTTP_COOKIE} ((^|\;\s*)wordpress_logged_in|(^|\;\s*)comment_author|(^|\;\s*)wp-postpass_|(^|\;\s*)woocommerce_items_in_cart=|(^|\;\s*)wordpress_logged_in_7d7496804d04a8984a12f7d706fc1531=)
+RewriteRule .* - [E=Cache-Control:no-cache]
+
+# QSDROP
+
+</IfModule>
+
+# END NITROPACK
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule LiteSpeed>
+RewriteEngine on
+CacheLookup on
+RewriteRule .* - [E=Cache-Control:no-autoflush]
+RewriteRule \.litespeed_conf\.dat - [F,L]
+
+### marker ASYNC start ###
+RewriteCond %{REQUEST_URI} /wp-admin/admin-ajax\.php
+RewriteCond %{QUERY_STRING} action=async_litespeed
+RewriteRule .* - [E=noabort:1]
+### marker ASYNC end ###
+
+### marker CACHE RESOURCE start ###
+RewriteRule wp-content/.*/[^/]*(responsive|css|js|dynamic|loader|fonts)\.php - [E=cache-control:max-age=3600]
+### marker CACHE RESOURCE end ###
+
+### marker FAVICON start ###
+RewriteRule favicon\.ico$ - [E=cache-control:max-age=86400]
+### marker FAVICON end ###
+
+### marker DROPQS start ###
+CacheKeyModify -qs:fbclid
+CacheKeyModify -qs:gclid
+CacheKeyModify -qs:utm*
+CacheKeyModify -qs:_ga
+### marker DROPQS end ###
+
+</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# BEGIN Speed Optimizer by 10Web
+# The directives (lines) between "BEGIN Speed Optimizer by 10Web" and "END Speed Optimizer by 10Web" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+        <IfModule mod_rewrite.c>
+          RewriteEngine On
+
+          # Does browser explicitly support webp?
+          RewriteCond %{HTTP_USER_AGENT} Chrome [OR]
+          # OR Is request from Page Speed
+          RewriteCond %{HTTP_USER_AGENT} "Google Page Speed Insights" [OR]
+          # OR does this browser explicitly support webp
+          RewriteCond %{HTTP_ACCEPT} image/webp
+          # AND NOT MS EDGE 42/17 - doesnt work.
+          RewriteCond %{HTTP_USER_AGENT} !Edge/17
+          # AND is the request a jpg, png or gif?
+          RewriteCond %{REQUEST_URI} ^(.+)\.(?:jpe?g|png|gif)$
+          # AND does a .ext.webp image exist?
+          RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.webp -f
+          # THEN send the webp image and set the env var webp
+          RewriteRule ^(.+)$ $1.webp [NC,T=image/webp,E=webp,L]
+        </IfModule>
+        
+        <IfModule mod_headers.c>
+          # If REDIRECT_webp env var exists, append Accept to the Vary header
+          Header append Vary Accept env=REDIRECT_webp
+        </IfModule>
+
+        <IfModule mod_mime.c>
+          AddType image/webp .webp
+        </IfModule>
+        
+
+# END Speed Optimizer by 10Web
