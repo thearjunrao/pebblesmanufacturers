@@ -14,7 +14,7 @@
 .wp_themeSkin .mceIcon.mce_vplayer,
 .wp_themeSkin .mceIcon.mce_video,
 .wp_themeSkin .mceIcon.mce_testimonial {
-    background: url(https://pebblesmanufacturers.com/wp-content/plugins/auxin-elements/admin/assets/css/images/mini-element-icons.png) 0 0 no-repeat;
+    background: url(/wp-content/plugins/auxin-elements/admin/assets/css/images/mini-element-icons.png) 0 0 no-repeat;
 }
 
 .wp_themeSkin .mceIcon.mce_dropcap { background-position    :-366px -8px; }

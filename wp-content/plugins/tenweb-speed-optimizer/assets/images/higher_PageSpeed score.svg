@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://pebblesmanufacturers.com/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg">
+		<meta http-equiv="refresh" content="0;url=/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://pebblesmanufacturers.com/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg";
+			window.location = "/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg";
 		</script>
 
-		<p>You are being redirected to <a href="https://pebblesmanufacturers.com/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg">https://pebblesmanufacturers.com/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg</a></p>
+		<p>You are being redirected to <a href="/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg">/wp-content/plugins/tenweb-speed-optimizer/assets/images/higher_PageSpeed%20score.svg</a></p>
 	</body>
 </html>

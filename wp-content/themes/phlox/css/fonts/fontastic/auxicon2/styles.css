@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "auxin-front-2";
-  src:url("https://pebblesmanufacturers.com/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.eot");
-  src:url("https://pebblesmanufacturers.com/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.eot#iefix") format("embedded-opentype"),
-    url("https://pebblesmanufacturers.com/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.woff") format("woff"),
-    url("https://pebblesmanufacturers.com/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.ttf") format("truetype"),
-    url("https://pebblesmanufacturers.com/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.svg#auxin-front-2") format("svg");
+  src:url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.eot");
+  src:url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.eot#iefix") format("embedded-opentype"),
+    url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.woff") format("woff"),
+    url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.ttf") format("truetype"),
+    url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/fonts/auxin-front-2.svg#auxin-front-2") format("svg");
   font-weight: normal;
   font-style: normal;
 

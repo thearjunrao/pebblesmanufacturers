@@ -2,14 +2,18 @@
 # This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-22 17:28:58+0000\n"
+"PO-Revision-Date: 2024-03-02 08:57:16+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"X-Generator: GlotPress/4.0.0-beta.3\n"
 "Language: en_GB\n"
 "Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+
+#: includes/rest-api.php:360
+msgid "There is no valid unit tag."
+msgstr "There is no valid unit tag."
 
 #: modules/sendinblue/contact-form-properties.php:101
 #: modules/sendinblue/service.php:156
@@ -146,7 +150,7 @@ msgid "The request payload format is not supported."
 msgstr "The request payload format is not supported."
 
 #. translators: 1: WordPress hook name, 2: version number
-#: includes/functions.php:572
+#: includes/functions.php:576
 msgid "Hook %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s with no alternative available."
 msgstr "Hook %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s with no alternative available."
 
@@ -168,7 +172,7 @@ msgstr "Please fill out this field."
 
 #. translators: 1: PHP function name, 2: version number, 3: alternative
 #. function name
-#: includes/functions.php:523
+#: includes/functions.php:527
 msgid "Function %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
 msgstr "Function %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
 
@@ -178,7 +182,7 @@ msgstr "Spam protection"
 
 #. translators: Developer debugging message. 1: PHP function name, 2:
 #. Explanatory message, 3: Contact Form 7 version number.
-#: includes/functions.php:607
+#: includes/functions.php:611
 msgid "Function %1$s was called incorrectly. %2$s %3$s"
 msgstr "Function %1$s was called incorrectly. %2$s %3$s"
 
@@ -262,7 +266,7 @@ msgctxt "personal name"
 msgid "%1$s %2$s"
 msgstr "%1$s %2$s"
 
-#: includes/rest-api.php:506
+#: includes/rest-api.php:513
 msgid "Unique identifier for the contact form."
 msgstr "Unique identifier for the contact form."
 
@@ -445,7 +449,7 @@ msgid "Disallowed words are used."
 msgstr "Disallowed words are used."
 
 #. translators: %s: Contact Form 7 version number.
-#: includes/functions.php:599
+#: includes/functions.php:603
 msgid "(This message was added in Contact Form 7 version %s.)"
 msgstr "(This message was added in Contact Form 7 version %s.)"
 
@@ -500,11 +504,11 @@ msgstr "reCAPTCHA is active on this site."
 msgid "reCAPTCHA response token is empty."
 msgstr "reCAPTCHA response token is empty."
 
-#: includes/submission.php:714
+#: includes/submission.php:720
 msgid "Submitted nonce is invalid."
 msgstr "Submitted nonce is invalid."
 
-#: includes/submission.php:705
+#: includes/submission.php:711
 msgid "User-Agent string is unnaturally short."
 msgstr "User agent string is unnaturally short."
 
@@ -538,7 +542,7 @@ msgid "Connection established."
 msgstr "Connection established."
 
 #. translators: 1: response code, 2: message, 3: body, 4: URL
-#: includes/functions.php:646
+#: includes/functions.php:650
 msgid "HTTP Response: %1$s %2$s %3$s from %4$s"
 msgstr "HTTP Response: %1$s %2$s %3$s from %4$s"
 
@@ -664,7 +668,7 @@ msgstr "Not consented"
 msgid "Consented"
 msgstr "Consented"
 
-#: includes/submission.php:112
+#: includes/submission.php:120
 msgid "Sending mail has been aborted."
 msgstr "Sending mail has been aborted."
 
@@ -755,7 +759,7 @@ msgstr "You are not allowed to access the requested contact form."
 
 #: includes/rest-api.php:243 includes/rest-api.php:265
 #: includes/rest-api.php:310 includes/rest-api.php:349
-#: includes/rest-api.php:414 includes/rest-api.php:433
+#: includes/rest-api.php:421 includes/rest-api.php:440
 msgid "The requested contact form was not found."
 msgstr "The requested contact form was not found."
 
@@ -835,7 +839,7 @@ msgstr "1 configuration error detected"
 
 #. translators: 1: WordPress hook name, 2: version number, 3: alternative hook
 #. name
-#: includes/functions.php:561
+#: includes/functions.php:565
 msgid "Hook %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
 msgstr "Hook %1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
 
